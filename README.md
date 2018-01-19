@@ -1,5 +1,5 @@
 # TWS_REST_API_samples
-This repository contains Rest API samples
+This repository contains links to Rest API samples
 ## Shell scripts
 [Add job](https://github.com/WAdev0/TWS_REST_API_Shell_script_samples/blob/master/shell_script/addJob.sh)  
 [Rerun job in plan](https://github.com/WAdev0/TWS_REST_API_Shell_script_samples/blob/master/shell_script/jobRerun.sh)  
