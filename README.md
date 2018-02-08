@@ -17,4 +17,5 @@ Swagger documentation of the REST APIs is available here: https://start.wa.ibmse
 [Query job streams](https://github.com/WAdev0/TWS_REST_API_Python_samples/blob/master/python/queryJS.py)  
 [Rerun job in plan](https://github.com/WAdev0/TWS_REST_API_Python_samples/blob/master/python/re_run.py)  
 [Submit job in plan](https://github.com/WAdev0/TWS_REST_API_Python_samples/blob/master/python/submit_job.py)  
-[Submit jobstream in plan](https://github.com/WAdev0/TWS_REST_API_Python_samples/blob/master/python/submit_job_stream.py)  
+[Submit jobstream in plan](https://github.com/WAdev0/TWS_REST_API_Python_samples/blob/master/python/submit_jobstream.py)  
+[Submit jobstream with variables](https://github.com/WAdev0/TWS_REST_API_Python_samples/blob/master/python/submit_jobstream_with_variables.py)  
