@@ -4,10 +4,10 @@ Swagger documentation of the REST APIs is available here: https://start.wa.ibmse
 
 Samples are available in same languages under specific repos
 
-## [Shell scripts](https://github.com/WAdev0/TWS_REST_API_Shell_script_samples)
+## [Shell scripts](https://github.com/WorkloadAutomation/TWS_REST_API_Shell_script_samples)
 
-## [PHP scripts](https://github.com/WAdev0/TWS_REST_API_PHP_samples)
+## [PHP scripts](https://github.com/WorkloadAutomation/TWS_REST_API_PHP_samples)
 
-## [Python scripts](https://github.com/WAdev0/TWS_REST_API_Python_samples)
+## [Python scripts](https://github.com/WorkloadAutomation/TWS_REST_API_Python_samples)
 
-## [Node.js scripts](https://github.com/WAdev0/WA_REST_API_Node_samples)
+## [Node.js scripts](https://github.com/WorkloadAutomation/WA_REST_API_Node_samples)
